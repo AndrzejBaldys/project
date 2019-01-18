@@ -12,5 +12,4 @@ sudo ufw allow ssh
 sudo ufw allow http
 sudo ufw allow https
 sudo ufw reload
-sudo apt-get install openssh.server
-
+sudo apt-get install openssh.server -y
